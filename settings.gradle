@@ -1,0 +1,1 @@
+include ':app', ':tinker-lib', ':tinker-loader', ':bsdiff-util'
